@@ -1,4 +1,4 @@
-package ejercicio2;
+package ejercicio2.java;
 
 public class PlanFamiliar extends Suscripcion {
     private int perfilesAdicionales;

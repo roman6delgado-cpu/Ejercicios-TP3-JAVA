@@ -1,4 +1,4 @@
-package ejercicio2;
+package ejercicio2.java;
 
 public abstract class Suscripcion {
     private String correoElectronico;
