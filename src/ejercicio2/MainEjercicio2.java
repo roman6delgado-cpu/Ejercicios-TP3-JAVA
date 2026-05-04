@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainEjercicio2 {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         List<Suscripcion> lista = new ArrayList<>();
 
         lista.add(new PlanBasico("ana@email.com", "C001", 1500));
